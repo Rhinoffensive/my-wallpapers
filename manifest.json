@@ -1,8 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "images": [
     "https://rhinoffensive.github.io/my-wallpapers/img_4.webp",
-    "https://rhinoffensive.github.io/my-wallpapers/img_6.png"
+    "https://rhinoffensive.github.io/my-wallpapers/img_6.png",
+    "https://rhinoffensive.github.io/my-wallpapers/inner-range.png"
     
   ]
 }
