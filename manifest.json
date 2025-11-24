@@ -1,13 +1,18 @@
 {
-  "version": 7,
+  "version": 8,
   "duration_minutes": 1, 
   "images": [
-    "https://rhinoffensive.github.io/my-wallpapers/img_6.png",
-    "https://rhinoffensive.github.io/my-wallpapers/inner-range.png",
-    "https://rhinoffensive.github.io/my-wallpapers/bosch.png",
-    "https://rhinoffensive.github.io/my-wallpapers/potter.png",
-    "https://rhinoffensive.github.io/my-wallpapers/elk.png",
-    "https://rhinoffensive.github.io/my-wallpapers/optimal_audio.png",
-    "https://rhinoffensive.github.io/my-wallpapers/chiens-funnyanimals.gif"       
+    "https://rhinoffensive.github.io/my-wallpapers/bosch_display_image.png",
+    "https://rhinoffensive.github.io/my-wallpapers/jci_display_image.png",
+    "https://rhinoffensive.github.io/my-wallpapers/dmp_display_image.png",
+    "https://rhinoffensive.github.io/my-wallpapers/inovonics_display_image.png",
+    "https://rhinoffensive.github.io/my-wallpapers/roper_display_image.png",
+    "https://rhinoffensive.github.io/my-wallpapers/elk_display_image.png",
+    "https://rhinoffensive.github.io/my-wallpapers/radionix_display_image.png",
+    "https://rhinoffensive.github.io/my-wallpapers/dsc_display_image.png",       
+    "https://rhinoffensive.github.io/my-wallpapers/ir_display_image.png",       
+    "https://rhinoffensive.github.io/my-wallpapers/wesco_display_image.png",
+    "https://rhinoffensive.github.io/my-wallpapers/optimal_audio_display_image.png",    
+    "https://rhinoffensive.github.io/my-wallpapers/fopcusrite_display_image.png"
   ]
 }
