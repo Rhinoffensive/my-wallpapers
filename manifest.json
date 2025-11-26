@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "duration_seconds": 3, 
+  "version": 15,
+  "duration_seconds": 1, 
   "images": [
     "https://rhinoffensive.github.io/my-wallpapers/bosch_display_image.png",
     "https://rhinoffensive.github.io/my-wallpapers/dmp_display_image.png",
@@ -13,8 +13,8 @@
     "https://rhinoffensive.github.io/my-wallpapers/optimal_audio_display_image.png",    
     "https://rhinoffensive.github.io/my-wallpapers/radionix_display_image.png",
     "https://rhinoffensive.github.io/my-wallpapers/roper_display_image.png",
-    "https://rhinoffensive.github.io/my-wallpapers/wesco_display_image.png",
-    "https://rhinoffensive.github.io/my-wallpapers/chiens-funnyanimals.gif"
+    "https://rhinoffensive.github.io/my-wallpapers/wesco_display_image.png"
+    // "https://rhinoffensive.github.io/my-wallpapers/chiens-funnyanimals.gif"
 
   ]
 }
