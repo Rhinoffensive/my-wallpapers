@@ -1,20 +1,18 @@
 {
-  "version": 13,
-  "duration_seconds": 30, 
+  "version": 14,
+  "duration_seconds": 3, 
   "images": [
     "https://rhinoffensive.github.io/my-wallpapers/bosch_display_image.png",
-    "https://rhinoffensive.github.io/my-wallpapers/jci_display_image.png",
     "https://rhinoffensive.github.io/my-wallpapers/dmp_display_image.png",
-    "https://rhinoffensive.github.io/my-wallpapers/inovonics_display_image.png",
-    "https://rhinoffensive.github.io/my-wallpapers/roper_display_image.png",
-    "https://rhinoffensive.github.io/my-wallpapers/elk_display_image.png",
-    "https://rhinoffensive.github.io/my-wallpapers/radionix_display_image.png",
     "https://rhinoffensive.github.io/my-wallpapers/dsc_display_image.png",       
-    "https://rhinoffensive.github.io/my-wallpapers/ir_display_image.png",       
-    "https://rhinoffensive.github.io/my-wallpapers/wesco_display_image.png",
-    "https://rhinoffensive.github.io/my-wallpapers/optimal_audio_display_image.png",    
+    "https://rhinoffensive.github.io/my-wallpapers/elk_image.png",
     "https://rhinoffensive.github.io/my-wallpapers/fopcusrite_display_image.png",
-    "https://rhinoffensive.github.io/my-wallpapers/chiens-funnyanimals.gif"
-
+    "https://rhinoffensive.github.io/my-wallpapers/inovonics_display_image.png",
+    "https://rhinoffensive.github.io/my-wallpapers/ir_display_image.png",       
+    "https://rhinoffensive.github.io/my-wallpapers/jci_display_image.png",
+    "https://rhinoffensive.github.io/my-wallpapers/optimal_audio_display_image.png",    
+    "https://rhinoffensive.github.io/my-wallpapers/radionix_display_image.png",
+    "https://rhinoffensive.github.io/my-wallpapers/roper_display_image.png",
+    "https://rhinoffensive.github.io/my-wallpapers/wesco_display_image.png"
   ]
 }
